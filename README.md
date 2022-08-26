@@ -86,7 +86,4 @@ Då kod i programmet körs kan denna inte backas tillbaks från, vilket gör att
 De flesta sakerna som kan gå fel är du skyddad för genom felmeddelanden som avbryter processen. I felmeddelandet står det tydligt förklarat varför det inte går att göra som du vill. Om det dock mot formodan skulle hända att programmer krashar så väljer du att avsluta processen i pop-up- rutan som visas. Om detta händer kommer arket fungera som om du stängt ner och öppnat det igen. Annars är alltid den förslagna lösningen att rensa arket, så kommer allt funka som det ska igen.
 
 ## Vidareutveckling
-Som nämnt ovan finns det en del saker som skulle kunna lösas, för att göra programmet aningen vassare. Beroende på hur mycket programmet används kan det kanske komma en ny version. Känner du att du själv vill förbättra något är det fritt fram att göra så. 
-
-## Avslutande ord
-Målet med Wrynn Excels är att programmet ska vara så enkelt som möjligt för användaren, men samtidigt smidigt att göra mindre ändringar in i det sista. Önskar du att dela mig dig av arket är det fritt fram att göra så. Jag önskar dock att texter får vara kvar, och även så på de utskifter ni gör och sätter upp, så det enklare kan spridas. Programmet är skapat för att underlätta vid plannering av sittningar, och ju fler som kan dra nytta av det desto bättre.
+Som nämnt ovan finns det en del saker som skulle kunna lösas, för att göra programmet aningen vassare. Beroende på hur mycket programmet används kan det kanske komma en ny version. Känner du att du själv vill förbättra något är det fritt fram att göra så. Forka projektet och kör hårt!
